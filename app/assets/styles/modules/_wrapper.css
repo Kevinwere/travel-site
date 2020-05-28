@@ -36,4 +36,7 @@
   &--medium {
     max-width: 800px;
   }
+  &--narrow {
+    max-width: 470px;
+  }
 }
